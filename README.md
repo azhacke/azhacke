@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there, I'm azhacke! 👋
 
-<!--
-**azhacke/azhacke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science Engineering Student (4th Sem)** passionate about **Full-Stack Development** and **Offensive Cyber Security**. I love digging into how things work, from web servers to simple electronics.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Up To
+- 🔭 I’m currently working on a full-stack **Airbnb Clone** (Node.js, Express, MongoDB).
+- 🌱 I’m learning **Offensive Penetration Testing** (PEN1) and network security.
+- ⚡ In my free time, I explore   **physics concepts**.
+
+### 🛠️ Tech Stack
+* **Languages:** JavaScript, Python, C++
+* **Web:** Node.js, Express, EJS, React, MongoDB
+* **Tools:** Git, Burp Suite, Linux
+
+### ⚡ Fun Facts
+* 🎥 Huge fan of the **Back to the Future** trilogy (waiting for my hoverboard!).
+* 🏴‍☠️ I also love the **Pirates of the Caribbean** series.
+* 🤖 Fascinated by **Elon Musk's** work and innovation.
+
+---
+_"Where we're going, we don't need roads."_ 🏎️🔥
