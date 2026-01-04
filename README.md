@@ -12,7 +12,7 @@ I'm a **Computer Science Engineering Student (4th Sem)** passionate about **Full
 ### 🛠️ Tech Stack
 * **Languages:** JavaScript, Python, C++
 * **Web:** Node.js, Express, EJS, React, MongoDB
-* **Tools:** Git, Burp Suite, Linux
+* **Tools:** Git, Linux
 
 ### ⚡ Fun Facts
 * 🎥 Huge fan of the **Back to the Future** trilogy (waiting for my hoverboard!).
