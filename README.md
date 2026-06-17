@@ -1,6 +1,6 @@
 ### Hi there, I'm Abdul AZEEZ! 👋
 
-I'm a **BSC Computer Science Student (4th Sem)** passionate about **Full-Stack Development** and **Offensive Cyber Security**. I love digging into how things work, from web servers to simple electronics.
+I'm a **BSC Computer Science Student (5th Sem)** passionate about **Full-Stack Development** and **Offensive Cyber Security**. I love digging into how things work, from web servers to simple electronics.
 
 ---
 
